@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import subprocess
 import os
-import urllib.request
+import urllib.request 
 
 # Paths to required files
 javase_jar = "javase-3.5.0.jar"
