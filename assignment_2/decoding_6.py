@@ -7,7 +7,7 @@ import numpy as np
 reader = zxing.BarCodeReader()
 
 # Load the MaxiCode image
-image_path = "image06.png"  # Replace with your MaxiCode image path
+image_path = "img6.jpg"  # Replace with your MaxiCode image path
 image = cv2.imread(image_path)
 
 # Decode the MaxiCode using ZXing
